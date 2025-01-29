@@ -3,3 +3,11 @@
   margin: 0;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
+
+.page-header {
+  background-color: #58a7af;
+  padding: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
